@@ -14,15 +14,18 @@ public class MainProgram {
                 System.out.println("Holdriho!");
             }
         }
-        public static void printSomeNumbers(){
+        /*public static void printSomeNumbers(){
             for(int i = 6; i <= 23; i++) {
                 System.out.println("Wert von i: " + i);
             }
-        }}}
-        /*public static void printNumbers(){
-        for(int i = start; i < end; i++){
+        }
+        public static void printNumbers(){
+        for(int i = start; i <= end; i++){
             System.out.println("Wert von i: " + i);
         }
     }
-}
+        public static int sumUp(){
+            for(int i = start; i <= end; i+i){
+         */
+    }
 }
