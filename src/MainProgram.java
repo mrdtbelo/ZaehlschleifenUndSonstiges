@@ -61,7 +61,7 @@ public class MainProgram {
         rectangleStars(width, height);
     }
 
-    public static void trianglStars(int width){
+    public static void triangleStars(int width){
         for(int i = 0; i <= width; i++) {
             System.out.print("*");
         }
